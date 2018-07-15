@@ -73,7 +73,7 @@ const Hangman = (function() {
 
 const words = [ "милашка", "красотулька", "кисунька", "очаровашка","привлекашка" ];
 
-// const hangman = new Hangman(words);
+const hangman = new Hangman(words);
 // const hangman = new Hangman('СлОво');
-const hangman = new Hangman('');
+// const hangman = new Hangman();
 hangman.guess();

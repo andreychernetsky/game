@@ -71,5 +71,5 @@ const words = [ "проГрамма", "макАка", "преКрасный", "�
 
 // const hangman = new Hangman(words);
 // const hangman = new Hangman('СлОво');
-const hangman = new Hangman('СлОво за СлОво');
+const hangman = new Hangman('');
 hangman.guess();
