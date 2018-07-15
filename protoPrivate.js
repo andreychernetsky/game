@@ -75,5 +75,5 @@ const words = [ "милашка", "красотулька", "кисунька", 
 
 // const hangman = new Hangman(words);
 // const hangman = new Hangman('СлОво');
-const hangman = new Hangman('Жду субботы');
+const hangman = new Hangman();
 hangman.guess();
